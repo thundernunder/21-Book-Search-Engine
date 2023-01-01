@@ -1,3 +1,4 @@
+// cannot export with out defining 
 const typeDefs = require('./typeDefs');
 const resolvers = require('./resolvers');
 
